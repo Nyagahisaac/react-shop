@@ -1,6 +1,6 @@
 
 
-export const BASE_URL = `http://localhost:8000`;
+export const BASE_URL = `https://646e0e209c677e23218af6f4.mockapi.io/api/`;
 
 export const postConfigure = (data) => {
   return {
