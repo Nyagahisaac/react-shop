@@ -4,6 +4,8 @@
    
 [View live demo](https://my-e-commerce-ap.netlify.app/)
 
+[Deployed app] (https://deluxe-naiad-a9fc6b.netlify.app)
+
 ## installation   
 
 
